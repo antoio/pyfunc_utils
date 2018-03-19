@@ -1,7 +1,7 @@
 # Python utils for work
 
   ## Structure
-  + _to\_do:_ Python files with descriptive comment about what the script is supposed to do.
+  + _to\_do:_ Ideas for python scripts with descriptive comment about what the script is supposed to do.
   + _doing:_ Scripts under development
     
   All production ready scripts are collected in project root folder.
