@@ -7,11 +7,12 @@
   All production ready scripts are collected in project root folder.
 
   ## Functions
-
+  :construction:
+  
   ### **Pause.py**
    Adds or removes the suffix '.paused' to a file name in order to prevent automatic execution in a test run.
 
   ## Installation
    :warning: _**REQUIRED:** working python installation!_
 
-   Add project root folder to environment variables.
+ Add project root folder to environment variables.
